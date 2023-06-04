@@ -4,7 +4,7 @@
 <p>O site é dividido em seções, cada uma destacando diferentes aspectos do serviço. Inclui seções sobre como assistir aos cursos, a disponibilidade dos cursos em vários dispositivos, a opção de baixar os cursos e um rodapé com links adicionais e informações legais.</p>
 
 <h2>USO</h2>
-<p>Para visualizar o site, abra o arquivo index.html em um navegador da web. O site foi projetado para ser responsivo e compatível com diferentes tamanhos de tela.</p>
+<p>Para visualizar o site, abra o arquivo index.html em um navegador da web.</p>
 
 <h2>ESTRUTURA DE ARQUIVO</h2> 
 <p>O repositório possui a seguinte estrutura de arquivos:</p>
